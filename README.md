@@ -2,11 +2,14 @@
 
 by IOIO72 aka Tamio Patrick Honma (https://honma.de)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
 ## Description
 
 The "Pril-Blume" is a geometric representation of a flower and an iconic part of a campaign in the 1970s for Henkel's dishwashing liquid Pril. These flowers were stickers that accompanied the labels of the bottles. The stickers were very popular and still known as a retro piece of pop art.
+
+![Prilblume Flower Power Cover](prilblume_cover.png)
+![Prilblume](Photos/20210624_214309.jpg)
+![Prilblume](Photos/20210624_214336.jpg)
+![Prilblume](Photos/20210624_214234.jpg)
 
 ## Customize the flower
 
@@ -16,18 +19,29 @@ In addition to the flower customization you can set a label text to create a flo
 
 The customizer options have descriptions to understand all possibilities. So, simply read them and play around with the properties.
 
-### Use OpenSCAD
+![Prilblume](prilblume.png)
+![Prilblume](prilblume_webdings.png)
+![Prilblume](prilblume_small.png)
+![Prilblume](prilblume_present.png)
+![Prilblume](prilblume_high.png)
+![Prilblume](prilblume_flower-tree.png)
+![Prilblume](prilblume_few-fragments.png)
+![Prilblume](prilblume_close-up.png)
+![Prilblume](prilblume_25.png)
+![Prilblume](flower-power.png)
+![Prilblume](extreme-flower-power.png)
 
-As the Thingiverse customizer has some issues, it's better to use OpenSCAD instead.
+
+## Use OpenSCAD
 
 1. **Download and install:** [OpenSCAD](http://openscad.org/) version 2021.01 or newer
 2. **Download:** The *.scad file of this model.
 3. **Start** OpenSCAD and **open** the *.scad file in it.
 4. **Open the customizer** via the menu "Window/Customizer"
 
-Now you can configure the model.
+Now you can configure the model and use the `F5` key to render the preview of your changes.
 
-#### Export your STL file
+### Export your STL file
 
 If you're done with your model settings, you can export the STL file:
 
@@ -35,7 +49,7 @@ If you're done with your model settings, you can export the STL file:
 2. Wait until the rendering is finished. This might take some minutes.
 3. Export the STL file by pressing the `F7` key.
 
-#### Optionally save your configuration
+### Optionally save your configuration
 
 If you like to use your configuration as a template for further models, it's a good idea, to save your configuration:
 
