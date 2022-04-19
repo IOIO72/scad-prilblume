@@ -1,0 +1,21 @@
+{
+    "parameterSets": {
+        "Flower Power": {
+            "$fn": "70",
+            "color_change": "72",
+            "font": "Dancing Script:style=Bold",
+            "label": "Flower Power",
+            "label_cutout_offset": "0.1",
+            "layer_count": "3",
+            "layer_fill": "true",
+            "layer_height": "0.5",
+            "layer_twist": "22.5",
+            "petal_diameter": "14",
+            "select_label": "false",
+            "select_layer": "0",
+            "size": "13",
+            "text_tip_height": "0.5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
